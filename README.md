@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ###### 🔭 I’m currently studying CS in SBU. Planning to graduate in Spring 2022
 ###### 🌱 I’m currently learning a few of Python backend libraries, Django and Flask. I am also preparing "coding tests" in Python😎 
-###### 📫 How to reach me: beargom1124@gmail.com <- my personal email!
+###### 📫 How to reach me: jnyshin1124@gmail.com 

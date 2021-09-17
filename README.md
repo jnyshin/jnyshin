@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### 🔭 I’m currently studying CS in SBU. Planning to graduate in Spring 2022
-###### 🌱 I’m currently learning a few of Python backend libraries, Django and Flask. I am also preparing "coding tests" in Python😎 
-###### 📫 How to reach me: jnyshin1124@gmail.com 
+###### 🔭 I’m currently studying Computer Science in Stony Brook University. Expected to graduate in May 2022
+###### 🌱 Learning computer networking and system security this semester. I am also preparing "coding tests" in Python😎 
+###### 📖 Want to learn more about OS and backend libraries in Python 
+###### ⭐️ Recent projcet: CommandT (https://commandt.herokuapp.com/)  //team project in Software Engineering course
+###### 📫 How to reach me: jnyshin1124@gmail.com 👈
+###### ⚡ Fun fact: I am a huge fan of ⚾️BASEBALL⚾️ 

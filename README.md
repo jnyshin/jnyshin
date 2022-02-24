@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###### 🔭 I’m currently studying Computer Science in Stony Brook University. Expected to graduate in May 2022
-###### 🌱 Learning computer networking and system security this semester. I am also preparing "coding tests" in Python😎 
-###### 📖 Want to learn more about OS and backend libraries in Python 
-###### ⭐️ Recent projcet: CommandT (https://tinydesk.me/)  //team project in Software Engineering course
+###### 🌱 Learning cloud computing and scripting language this semester. I am also preparing "coding tests" in Python😎 
+###### 📖 Want to learn more about routing protocols, OS, backend libraries in Python and Java. 
+###### ⭐️ Tiny Desk (https://tinydesk.me/)  //team project done in Software Engineering course
 ###### 📫 How to reach me: jnyshin1124@gmail.com 👈
 ###### ⚡ Fun fact: I am a huge fan of ⚾️BASEBALL⚾️ 

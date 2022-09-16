@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### 🔭 I’m currently studying Computer Science in Stony Brook University. Expected to graduate in May 2022
-###### 🌱 Learning cloud computing and scripting language this semester. I am also preparing "coding tests" in Python😎 
-###### 📖 Want to learn more about routing protocols, OS, backend libraries in Python and Java. 
+###### 🔭 Passionate in Infrastructure and back-end. 
 ###### ⭐️ Tiny Desk (https://tinydesk.me/)  //team project done in Software Engineering course
 ###### 📫 How to reach me: jnyshin1124@gmail.com 👈
 ###### ⚡ Fun fact: I am a huge fan of ⚾️BASEBALL⚾️ 
